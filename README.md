@@ -2,7 +2,18 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HardBird&show_icons=true&theme=radical)
+## 🛠 Project 🛠 
+##### Rust - Nolza Company Server NetworkManagement (AWS EC2) 👣 2021.06.01 ~ing 👣
 
+##### Vallheim - Vallheim + (plugins) 👣 2020 👣
+##### CookieRun Kingdom - 용체력 계산기 - https://fervent-kepler-9faf8a.netlify.app/ 👣 2021.05 👣
+
+##### 투게더 On - 무엇이든 모임이 된다. 웹/앱서비스 커뮤니티 사이트 👣 2021.03 - 2021.07 👣 
+##### Hanium,INU CAPSTONE - ICT한이음 공모전&인천대학교 캡스톤 경진대회  (CNN을 활용한 심리예측 시스템) 👣 2020.06 - 2020.12 👣 
+##### 0xflow - 1Hours, 내가 만드는 한 시간 수업 기획 및 메인 개발(Si, (주)Sizle) 👣 2020.09 - 2020.10 👣
+##### Tutor. - 과외 관리의 마침표 튜터닷. 기획 - https://github.com/TutorDot 👣 2020.08 👣 
+##### Scopus - Devlopment of an Intellegent Haptic Virtual Simulator for Suture Surgery - Unity environment Dev 👣 2019.12 👣
+##### SOCAR - 쏘카X한국정보과학회 AI영상분석 경진대회 장려상 (Yolo를 이용한 스쿨존 감지기) 👣 2019.12 👣
 
 ## 🛠 Tech Stack 🛠 
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> <img alt="NextJs" src ="https://img.shields.io/badge/NextJs-000000.svg?&style=for-the-badge&logo=Next.Js&logoColor=white"/>  <img alt="HTML" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
