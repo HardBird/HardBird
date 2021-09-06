@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hardbird%20World&animation=twinkling&fontColor=000000&fontSize=40&fontAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hardbird%20World!&animation=twinkling&fontColor=000000&fontSize=40&fontAlign=80)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HardBird&show_icons=true&theme=radical)
