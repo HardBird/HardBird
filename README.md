@@ -4,7 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HardBird&show_icons=true&theme=radical)
 
 ## 🛠 Project 🛠 
-##### Rust - Nolza Company Server NetworkManagement (AWS EC2) 👣 2021.06.01 ~ing 👣
+##### Rust - Nolza Company Server NetworkManagement (AWS EC2) 👣 2021.06.01 ~ 2022.06.30 👣
 
 ##### Vallheim - Vallheim + (plugins) 👣 2020 👣
 ##### CookieRun Kingdom - 용체력 계산기 - https://fervent-kepler-9faf8a.netlify.app/ 👣 2021.05 👣
