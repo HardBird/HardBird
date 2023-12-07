@@ -4,6 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HardBird&show_icons=true&theme=radical)
 
 ## 🛠 Project 🛠 
+##### DiscordBot - 마비노기 유틸 챗봇 👣 2023.12 ~ ing 👣
 ##### Rust - Nolza Company Server NetworkManagement (AWS EC2) 👣 2021.06.01 ~ 2022.06.30 👣
 
 ##### Vallheim - Vallheim + (plugins) 👣 2020 👣
