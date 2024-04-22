@@ -15,6 +15,7 @@
 ##### 0xflow - 1Hours, 내가 만드는 한 시간 수업 기획 및 메인 개발(Si, (주)Sizle) 👣 2020.09 - 2020.10 👣
 ##### Tutor. - 과외 관리의 마침표 튜터닷. 기획 - https://github.com/TutorDot 👣 2020.08 👣 
 ##### Scopus - Devlopment of an Intellegent Haptic Virtual Simulator for Suture Surgery - Unity environment Dev 👣 2019.12 👣
+##### (https://thesai.org/Publications/ViewPaper?Volume=11&Issue=2&Code=IJACSA&SerialNo=8)
 ##### SOCAR - 쏘카X한국정보과학회 AI영상분석 경진대회 장려상 (Yolo를 이용한 스쿨존 감지기) 👣 2019.12 👣
 
 ## 🛠 Tech Stack 🛠 
